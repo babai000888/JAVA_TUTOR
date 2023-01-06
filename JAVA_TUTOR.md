@@ -20,6 +20,9 @@
     https://github.com/shshankar1
    <div># Первоисточник </div>
     https://github.com/Magnumv44/learning_java
+   <div># Первоисточник </div>
+
+    https://github.com/enhorse/java-interview
 
 
   </component>
